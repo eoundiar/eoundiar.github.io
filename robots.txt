@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eoundiar.github.io/sitemap.html.gz
+Sitemap: https://eoundiar.github.io/app/sitemap.html.gz
+Sitemap: https://eoundiar.github.io/assets/sitemap.html.gz
+Sitemap: https://eoundiar.github.io/css/sitemap.html.gz
+Sitemap: https://eoundiar.github.io/includes/sitemap.html.gz
+Sitemap: https://eoundiar.github.io/item/sitemap.html.gz
+Sitemap: https://eoundiar.github.io/src/sitemap.html.gz
